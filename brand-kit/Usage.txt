@@ -1,0 +1,15 @@
+DefectTrail SVG brand kit
+
+12 genuine SVG vector assets. All logo lettering is outlined: no installed font or network connection is required.
+
+Primary: plum symbol #5A5188, graphite wordmark #22232A. Use on ivory #F7F4ED or white.
+Ink: one-color graphite. For monochrome printing.
+Reverse: lilac symbol #D2C9F0 and ivory wordmark #F7F4ED. Use on graphite/dark backgrounds.
+
+Horizontal: preferred company logo. Stacked: centered placements and square-format artwork. Mark-only: favicons and small app/avatar placements.
+Keep at least half a node width of clear space. Preserve proportions; do not add shadows, stretch or rearrange the nodes.
+Suggested minimum widths: horizontal 160px, stacked 180px, mark 24px. Use favicon-specific variants below 24px.
+
+Favicons: light and dark fixed SVGs, plus defecttrail-favicon.svg that responds to the browser color theme. PNG fallbacks: 16,32,180,192,512px. ICO contains 16px and 32px images. favicon-180.png is the Apple touch icon.
+
+The symbol continues the existing DefectTrail evidence-trail identity; it is redrawn with native vector shapes. Wordmark outlines derive from Fraunces, weight 450, optical size 30, with custom tracking. Fraunces SIL Open Font License is included. Brand/domain/trademark clearance is not implied.

@@ -105,3 +105,5 @@ Upload the contents of `DefectTrail-Hostinger-Static.zip` into `public_html` usi
 ## SVG brand kit
 
 `public/assets/brand/` contains twelve genuine vector SVGs: primary/ink/reverse symbols, primary/ink/reverse horizontal logos, primary/ink/reverse stacked logos, and light/dark/automatic favicons. Wordmarks are outlined Fraunces paths and require no external font. The site uses the primary/reverse SVG symbol; the browser uses `public/favicon.svg`. PNG favicon sizes 16/32/180/192/512 and a 16+32 ICO are regenerated with `node scripts/prepare-brand.mjs`. The film uses the matching SVG-derived WebP for canvas compatibility. Fraunces attribution/license is included.
+
+The complete downloadable brand kit, preview sheet, usage notes, SVG/PNG/ICO files and font license are in [brand-kit](brand-kit/). Download the [complete ZIP](brand-kit/DefectTrail-SVG-Brand-Kit.zip).
