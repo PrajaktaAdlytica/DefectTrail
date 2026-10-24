@@ -1,0 +1,295 @@
+[
+  {
+    "overflow": 1280,
+    "pins": 4,
+    "route": "/",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/why-change",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/solutions",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/solutions/quality-directors",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/solutions/manufacturing-engineering",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/solutions/electronics-discrete-assembly",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/solutions/supplier-quality",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 2,
+    "route": "/products",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 1,
+    "route": "/products/defect-desk",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 1,
+    "route": "/products/defect-review",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 1,
+    "route": "/products/defect-proof",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 1,
+    "route": "/products/defect-signal",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 1,
+    "route": "/products/defect-report",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 1,
+    "route": "/platform",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/pricing",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/results",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/evaluation",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/request-evaluation",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/request-demo",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/demo",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/demo/evaluation",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/demo/cases/DT-101",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/demo/cases/DT-102",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/demo/cases/DT-103",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/demo/cases/DT-101/report",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/demo/cases/DT-102/report",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/demo/cases/DT-103/report",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/resources",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/resources/example-evidence-packet",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/resources/evidence-and-uncertainty",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/resources/pilot-protocol",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/resources/research-notes",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/integrations",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/trust",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/company",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/contact",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/waitlist",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/sign-in",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/access-help",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/legal/privacy",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/legal/terms",
+    "width": 1280
+  },
+  {
+    "motion": "true",
+    "overflow": 1280,
+    "pins": 0,
+    "route": "/accessibility",
+    "width": 1280
+  }
+]

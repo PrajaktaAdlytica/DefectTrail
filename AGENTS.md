@@ -1,0 +1,27 @@
+# Prototype Instructions
+
+Run the local server yourself and open the preview in the browser available to this environment. Do not give the user server-start instructions when you can run it.
+
+Before making substantial visual changes, use the Product Design plugin's `get-context` skill when the visual source is unclear or no longer matches the current goal. When the user gives durable prototype-specific design feedback, preferences, or decisions, record them in `AGENTS.md`.
+
+When implementing from a selected generated mock, treat that image as the source of truth for layout, component anatomy, density, spacing, color, typography, visible content, and hierarchy.
+
+Build app UI in `src/`. Keep `.openai/hosting.json`, `worker/index.js`, `scripts/prepare-sites-build.mjs`, and `tests/sites-worker.test.mjs` intact so the same local prototype can be handed to Sites. Before a Sites handoff, run `npm run build` and `npm run test:sites`; the build must leave `dist/client/index.html`, `dist/server/index.js`, and `dist/.openai/hosting.json`.
+
+## DefectTrail decisions
+
+Use the selected five-chapter reference set in `design-assets/references/`. The accepted direction is continuous light ivory paper, Fraunces/Manrope, plum/apricot/sage accents, and original transparent graphite/wax-pencil industrial illustrations. Preserve the editorial rows and source-led story; do not replace it with generic SaaS cards or copy Dawn's visuals.
+
+DefectTrail is a research-stage concept. Keep five separately quotable offers and hypothesis prices, source provenance, counterexamples, missing genealogy, DEMO/SIMULATED labels and human review boundaries. Forms, access presentation and diagnostics are local previews; do not imply submission, authentication, live integration, traction or physical control. The three-case model in `src/data/demo.js` is canonical. Public launch and any real records require their separately agreed operational process.
+
+## Motion revision — 24 October 2026
+
+The user rejected subtle fades as insufficient. Motion must visibly develop the story: sustained viewport scenes, camera movement, staged source connections, vertical product progression and meaningful hover/focus feedback. Use Lenis synchronized with GSAP/ScrollTrigger. Verify at 1280×720 and 1024×720; height-gated desktop-only choreography is unacceptable. Preserve native touch, reduced-motion complete content, skip/manual controls, source dialogs and route cleanup. Never claim success from installed libraries alone.
+
+## Approved site-wide motion
+
+The user approved the homepage motion and requested it across all remaining pages. Preserve that direction. The assembly pin must end before `.assembly-ending`, with real measured clearance; do not pin to the entire section bottom. Use sustained offer scenes, bounded workflow/source-object pins and scroll-led artwork on marketing pages. Forms, authentication presentation, reports and demo controls receive lighter task-safe transitions; they remain in normal reading flow. Always audit desktop, mobile, reduced motion and SPA route cleanup after global choreography changes.
+
+## Approved opening film
+
+The user selected **second ideation set, displayed option 2: Beneath the Surface**, the porcelain seam and optical-disc direction. Do not confuse it with the first set's factory image. Intro sits above the homepage hero, runs nine seconds with independent lens/camera motion, fades to ivory, then moves smoothly to the hero. Maintain pause, seeking, skip, replay, static reduced-motion poster, offscreen/hidden pausing and cancellation of automatic advance after manual scrolling. The canonical shared Remotion composition is `intro-film/src/Film.jsx`; preserve it alongside the website integration.

@@ -1,0 +1,67 @@
+{
+  ".assembly-section": {
+    "bottom": 2525,
+    "height": 1222,
+    "top": 1303
+  },
+  ".buyer-roles": {
+    "bottom": 8255,
+    "height": 978,
+    "top": 7277
+  },
+  ".evaluation-section": {
+    "bottom": 9246,
+    "height": 991,
+    "top": 8255
+  },
+  ".faq-section": {
+    "bottom": 10927,
+    "height": 930,
+    "top": 9997
+  },
+  ".final-cta": {
+    "bottom": 12505,
+    "height": 1578,
+    "top": 10927
+  },
+  ".hero": {
+    "bottom": 1303,
+    "height": 1218,
+    "top": 85
+  },
+  ".pricing-section": {
+    "bottom": 9997,
+    "height": 751,
+    "top": 9246
+  },
+  ".product-suite": {
+    "bottom": 4135,
+    "height": 1610,
+    "top": 2525
+  },
+  ".review-boundary": {
+    "bottom": 7277,
+    "height": 931,
+    "top": 6346
+  },
+  ".shared-case": {
+    "bottom": 5104,
+    "height": 969,
+    "top": 4135
+  },
+  ".site-footer": {
+    "bottom": 12897,
+    "height": 392,
+    "top": 12505
+  },
+  ".site-header": {
+    "bottom": 85,
+    "height": 85,
+    "top": 0
+  },
+  ".story-section": {
+    "bottom": 6346,
+    "height": 1243,
+    "top": 5104
+  }
+}

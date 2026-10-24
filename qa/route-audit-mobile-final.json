@@ -1,0 +1,254 @@
+[
+  {
+    "route": "/",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/why-change",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/solutions",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/solutions/quality-directors",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/solutions/manufacturing-engineering",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/solutions/electronics-discrete-assembly",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/solutions/supplier-quality",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/products",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/products/defect-desk",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/products/defect-review",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/products/defect-proof",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/products/defect-signal",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/products/defect-report",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/platform",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/pricing",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/results",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/evaluation",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/request-evaluation",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/request-demo",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/demo",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/demo/evaluation",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/demo/cases/DT-101",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/demo/cases/DT-102",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/demo/cases/DT-103",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/demo/cases/DT-101/report",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/demo/cases/DT-102/report",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/demo/cases/DT-103/report",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/resources",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/resources/example-evidence-packet",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/resources/evidence-and-uncertainty",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/resources/pilot-protocol",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/resources/research-notes",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/integrations",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/trust",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/company",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/contact",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/waitlist",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/sign-in",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/access-help",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/legal/privacy",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/legal/terms",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/accessibility",
+    "headingCount": 1,
+    "pageWidth": 390,
+    "width": 390
+  }
+]

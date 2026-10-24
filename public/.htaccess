@@ -1,0 +1,12 @@
+# DefectTrail static SPA — deploy at the domain root (public_html).
+DirectoryIndex index.html
+Options -MultiViews
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  # Missing static assets must return 404 rather than the app HTML.
+  RewriteRule ^(?:assets|fonts)/ - [L]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule . /index.html [L]
+</IfModule>

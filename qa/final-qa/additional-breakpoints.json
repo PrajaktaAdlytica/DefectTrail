@@ -1,0 +1,77 @@
+[
+  {
+    "overflow": false,
+    "path": "/",
+    "w": 320
+  },
+  {
+    "overflow": false,
+    "path": "/products",
+    "w": 320
+  },
+  {
+    "overflow": false,
+    "path": "/platform",
+    "w": 320
+  },
+  {
+    "overflow": false,
+    "path": "/demo/cases/DT-103",
+    "w": 320
+  },
+  {
+    "overflow": false,
+    "path": "/request-evaluation",
+    "w": 320
+  },
+  {
+    "overflow": false,
+    "path": "/",
+    "w": 768
+  },
+  {
+    "overflow": false,
+    "path": "/products",
+    "w": 768
+  },
+  {
+    "overflow": false,
+    "path": "/platform",
+    "w": 768
+  },
+  {
+    "overflow": false,
+    "path": "/demo/cases/DT-103",
+    "w": 768
+  },
+  {
+    "overflow": false,
+    "path": "/request-evaluation",
+    "w": 768
+  },
+  {
+    "overflow": false,
+    "path": "/",
+    "w": 1024
+  },
+  {
+    "overflow": false,
+    "path": "/products",
+    "w": 1024
+  },
+  {
+    "overflow": false,
+    "path": "/platform",
+    "w": 1024
+  },
+  {
+    "overflow": false,
+    "path": "/demo/cases/DT-103",
+    "w": 1024
+  },
+  {
+    "overflow": false,
+    "path": "/request-evaluation",
+    "w": 1024
+  }
+]

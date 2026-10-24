@@ -1,0 +1,380 @@
+[
+  {
+    "route": "/",
+    "width": 390,
+    "broken": [],
+    "h1": "Reconstruct adefective lot withoutinventing its root cause.",
+    "headings": 1,
+    "scrollWidth": 486,
+    "viewport": 390
+  },
+  {
+    "route": "/why-change",
+    "width": 390,
+    "broken": [],
+    "h1": "The defect is visible.Its full story is scattered.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/solutions",
+    "width": 390,
+    "broken": [],
+    "h1": "A shared case.Distinct responsibilities.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/solutions/quality-directors",
+    "width": 390,
+    "broken": [],
+    "h1": "A defensible review begins with inspectable evidence.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/solutions/manufacturing-engineering",
+    "width": 390,
+    "broken": [],
+    "h1": "Challenge the process explanation before narrowing the cause.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/solutions/electronics-discrete-assembly",
+    "width": 390,
+    "broken": [],
+    "h1": "One serialized assembly. A source-linked investigation.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/solutions/supplier-quality",
+    "width": 390,
+    "broken": [],
+    "h1": "Across suppliers, only if the evidence can travel.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/products",
+    "width": 390,
+    "broken": [],
+    "h1": "Five distinct jobs.One source-linked case.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/products/defect-desk",
+    "width": 390,
+    "broken": [],
+    "h1": "Give the incident a dated evidence trail.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/products/defect-review",
+    "width": 390,
+    "broken": [],
+    "h1": "Follow the serial. Keep the missing links.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/products/defect-proof",
+    "width": 390,
+    "broken": [],
+    "h1": "Compare the pattern. Challenge the explanation.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/products/defect-signal",
+    "width": 390,
+    "broken": [],
+    "h1": "Prepare the scope. Leave authority with people.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/products/defect-report",
+    "width": 390,
+    "broken": [],
+    "h1": "Carry the evidence into the next review.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/platform",
+    "width": 390,
+    "broken": [],
+    "h1": "A case with context.An answer with limits.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/pricing",
+    "width": 390,
+    "broken": [],
+    "h1": "Start with one module.Agree a useful test.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/results",
+    "width": 390,
+    "broken": [],
+    "h1": "Evidence of valuestarts with a baseline.",
+    "headings": 1,
+    "scrollWidth": 486,
+    "viewport": 390
+  },
+  {
+    "route": "/evaluation",
+    "width": 390,
+    "broken": [],
+    "h1": "Three closed cases.A pre-agreed test.",
+    "headings": 1,
+    "scrollWidth": 486,
+    "viewport": 390
+  },
+  {
+    "route": "/request-evaluation",
+    "width": 390,
+    "broken": [],
+    "h1": "Agree what a useful answer looks like.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/request-demo",
+    "width": 390,
+    "broken": [],
+    "h1": "Walk through a source-linked case.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/demo",
+    "width": 390,
+    "broken": [],
+    "h1": "Follow the evidence.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/demo/evaluation",
+    "width": 390,
+    "broken": [],
+    "h1": "A real evaluationstarts with permission.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/demo/cases/DT-101",
+    "width": 390,
+    "broken": [],
+    "h1": "Follow the evidence.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/demo/cases/DT-102",
+    "width": 390,
+    "broken": [],
+    "h1": "Follow the evidence.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/demo/cases/DT-103",
+    "width": 390,
+    "broken": [],
+    "h1": "Follow the evidence.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/demo/cases/DT-101/report",
+    "width": 390,
+    "broken": [],
+    "h1": "DT-101Serialized investigation review.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/demo/cases/DT-102/report",
+    "width": 390,
+    "broken": [],
+    "h1": "DT-102Serialized investigation review.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/demo/cases/DT-103/report",
+    "width": 390,
+    "broken": [],
+    "h1": "DT-103Serialized investigation review.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/resources",
+    "width": 390,
+    "broken": [],
+    "h1": "Evidence, uncertainty,and the next question.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/resources/example-evidence-packet",
+    "width": 390,
+    "broken": [],
+    "h1": "DT-103Serialized investigation review.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/resources/evidence-and-uncertainty",
+    "width": 390,
+    "broken": [],
+    "h1": "A useful lead mustsurvive a counterexample.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/resources/pilot-protocol",
+    "width": 390,
+    "broken": [],
+    "h1": "Three closed cases.A pre-agreed test.",
+    "headings": 1,
+    "scrollWidth": 486,
+    "viewport": 390
+  },
+  {
+    "route": "/resources/research-notes",
+    "width": 390,
+    "broken": [],
+    "h1": "Existing capabilities.Unproven advantage.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/integrations",
+    "width": 390,
+    "broken": [],
+    "h1": "An authorized export,before a connector claim.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/trust",
+    "width": 390,
+    "broken": [],
+    "h1": "Evidence can be shared.Authority cannot be assumed.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/company",
+    "width": 390,
+    "broken": [],
+    "h1": "Follow the evidence.Keep the uncertainty.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/contact",
+    "width": 390,
+    "broken": [],
+    "h1": "Start with the question.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/waitlist",
+    "width": 390,
+    "broken": [],
+    "h1": "Stay close to the evidence.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/sign-in",
+    "width": 390,
+    "broken": [],
+    "h1": "A case with context.A team with permission.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/access-help",
+    "width": 390,
+    "broken": [],
+    "h1": "Access starts withan agreed evaluation.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/legal/privacy",
+    "width": 390,
+    "broken": [],
+    "h1": "Keep business contextseparate from operational records.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/legal/terms",
+    "width": 390,
+    "broken": [],
+    "h1": "A synthetic preview.An explicit boundary.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "route": "/accessibility",
+    "width": 390,
+    "broken": [],
+    "h1": "The evidence shouldremain accessible.",
+    "headings": 1,
+    "scrollWidth": 390,
+    "viewport": 390
+  }
+]

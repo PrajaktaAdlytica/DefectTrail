@@ -1,0 +1,13 @@
+Built-in ImageGen, approved round-2 option 2. Production edits; reference preserved.
+
+PLATE
+
+Precise production asset edit of the selected DefectTrail film art-direction board. Create ONE clean cinematic 1920x1080 keyframe, not a storyboard. Preserve the exact approved visual language of its TOP LARGE FRAME: tactile ivory porcelain, diagonal delicate seam, soft apricot raking illumination, faint sage/lilac wax rubbings at far right, a huge clear optical disc at upper right with magnified porcelain visible through it. Recompose the top large scene to full 16:9 frame, with lens on right half and wide empty ivory negative space on left. Remove EVERY text character, logo, concept label, timestamp, bottom thumbnail strip, border and caption. No typography anywhere. Refined photographic macro optics with warm soft shadow and clear glass edge, true texture, quiet luxury. The lens is a physical optical element, not a software scanner. Match the approved board faithfully, retain material and color, no additional objects. This will be animated with a very slow cinematic camera dolly on the website.
+
+BACKGROUND
+
+Create a clean animation background plate by editing this cinematic DefectTrail macro frame. Remove ONLY the circular glass optical disc and the cast shadow belonging to that disc. Seamlessly reconstruct the ivory porcelain surface under it. Preserve the diagonal hairline seam, all porcelain texture, soft warm apricot grazing light, sage and plum rubbings at the far right edge, camera angle and wide composition exactly. No text, no objects, no lens. Full 16:9 1920x1080 frame, no borders. This is the static background for compositing a moving real bitmap lens later.
+
+LENS
+
+Extract a production compositing asset from this reference: ONLY the complete circular glass optical disc, including its thick green-grey glass edge and the warm magnified ivory porcelain texture with the fine diagonal seam visible INSIDE the glass. Preserve the original exact oblique camera angle, oval perspective, lighting, warm refraction and ceramic texture. The result must be tightly framed around the disc with a little breathing room, isolated on a genuinely transparent background. All pixels OUTSIDE the disc are transparent, with no rectangular porcelain background, no lettering, no labels. Do not make the inside transparent: the magnified optical detail inside is part of this animated asset. Preserve the approved subject, do not invent a handle or magnifying-glass stem. No big exterior cast shadow; subtle glass edge/refraction retained. True alpha cutout. This lens will drift gently over a matching porcelain background.

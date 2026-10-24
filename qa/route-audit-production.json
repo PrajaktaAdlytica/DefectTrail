@@ -1,0 +1,296 @@
+[
+  {
+    "route": "/",
+    "h1": "Reconstruct a\ndefective lot without\ninventing its root cause.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/why-change",
+    "h1": "The defect is visible.\nIts full story is scattered.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/solutions",
+    "h1": "A shared case.\nDistinct responsibilities.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/solutions/quality-directors",
+    "h1": "A defensible review begins with inspectable evidence.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/solutions/manufacturing-engineering",
+    "h1": "Challenge the process explanation before narrowing the cause.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/solutions/electronics-discrete-assembly",
+    "h1": "One serialized assembly. A source-linked investigation.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/solutions/supplier-quality",
+    "h1": "Across suppliers, only if the evidence can travel.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/products",
+    "h1": "Five distinct jobs.\nOne source-linked case.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/products/defect-desk",
+    "h1": "Give the incident a dated evidence trail.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/products/defect-review",
+    "h1": "Follow the serial. Keep the missing links.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/products/defect-proof",
+    "h1": "Compare the pattern. Challenge the explanation.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/products/defect-signal",
+    "h1": "Prepare the scope. Leave authority with people.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/products/defect-report",
+    "h1": "Carry the evidence into the next review.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/platform",
+    "h1": "A case with context.\nAn answer with limits.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/pricing",
+    "h1": "Start with one module.\nAgree a useful test.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/results",
+    "h1": "Evidence of value\nstarts with a baseline.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/evaluation",
+    "h1": "Three closed cases.\nA pre-agreed test.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/request-evaluation",
+    "h1": "Agree what a useful answer looks like.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/request-demo",
+    "h1": "Walk through a source-linked case.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/demo",
+    "h1": "Follow the evidence.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/demo/evaluation",
+    "h1": "A real evaluation\nstarts with permission.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/demo/cases/DT-101",
+    "h1": "Follow the evidence.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/demo/cases/DT-102",
+    "h1": "Follow the evidence.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/demo/cases/DT-103",
+    "h1": "Follow the evidence.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/demo/cases/DT-101/report",
+    "h1": "DT-101\nSerialized investigation review.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/demo/cases/DT-102/report",
+    "h1": "DT-102\nSerialized investigation review.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/demo/cases/DT-103/report",
+    "h1": "DT-103\nSerialized investigation review.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/resources",
+    "h1": "Evidence, uncertainty,\nand the next question.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/resources/example-evidence-packet",
+    "h1": "DT-103\nSerialized investigation review.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/resources/evidence-and-uncertainty",
+    "h1": "A useful lead must\nsurvive a counterexample.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/resources/pilot-protocol",
+    "h1": "Three closed cases.\nA pre-agreed test.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/resources/research-notes",
+    "h1": "Existing capabilities.\nUnproven advantage.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/integrations",
+    "h1": "An authorized export,\nbefore a connector claim.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/trust",
+    "h1": "Evidence can be shared.\nAuthority cannot be assumed.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/company",
+    "h1": "Follow the evidence.\nKeep the uncertainty.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/contact",
+    "h1": "Start with the question.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/waitlist",
+    "h1": "Stay close to the evidence.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/sign-in",
+    "h1": "A case with context.\nA team with permission.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/access-help",
+    "h1": "Access starts with\nan agreed evaluation.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/legal/privacy",
+    "h1": "Keep business context\nseparate from operational records.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/legal/terms",
+    "h1": "A synthetic preview.\nAn explicit boundary.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/accessibility",
+    "h1": "The evidence should\nremain accessible.",
+    "headingCount": 1,
+    "pageWidth": 1440,
+    "width": 1440
+  }
+]

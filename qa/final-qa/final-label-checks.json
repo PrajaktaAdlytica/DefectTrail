@@ -1,0 +1,296 @@
+[
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/",
+    "title": "Reconstruct a defective lot without inventing its root cause · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/why-change",
+    "title": "THE INVESTIGATION PROBLEM · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/solutions",
+    "title": "Quality investigation workflows · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/solutions/quality-directors",
+    "title": "FOR THE ACCOUNTABLE QUALITY DIRECTOR · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/solutions/manufacturing-engineering",
+    "title": "FOR THE MANUFACTURING ENGINEERING LEAD · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/solutions/electronics-discrete-assembly",
+    "title": "FIRST CONTRACTING CONTEXT · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/solutions/supplier-quality",
+    "title": "FUTURE EXPANSION HYPOTHESIS · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/products",
+    "title": "Five focused proposed modules · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/products/defect-desk",
+    "title": "Defect Desk — Incident intake and evidence chronology. · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/products/defect-review",
+    "title": "Defect Review — Serial and batch genealogy search. · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/products/defect-proof",
+    "title": "Defect Proof — Cross-station anomaly comparison. · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/products/defect-signal",
+    "title": "Defect Signal — Suspect-lot review with traceable rationale. · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/products/defect-report",
+    "title": "Defect Report — CAPA evidence package and effectiveness follow-up. · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/platform",
+    "title": "The proposed source-linked platform · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/pricing",
+    "title": "Five indicative pilot price hypotheses · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/results",
+    "title": "How value would be measured · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/evaluation",
+    "title": "The proposed evaluation protocol · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/request-evaluation",
+    "title": "Agree what a useful answer looks like. · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/request-demo",
+    "title": "Walk through a source-linked case. · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/demo",
+    "title": "Synthetic quality investigation workbench · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/demo/evaluation",
+    "title": "Simulated evaluation workspace · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/demo/cases/DT-101",
+    "title": "Synthetic quality investigation workbench · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/demo/cases/DT-102",
+    "title": "Synthetic quality investigation workbench · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/demo/cases/DT-103",
+    "title": "Synthetic quality investigation workbench · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/demo/cases/DT-101/report",
+    "title": "DEMO DT-101 — Evidence packet · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/demo/cases/DT-102/report",
+    "title": "DEMO DT-102 — Evidence packet · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/demo/cases/DT-103/report",
+    "title": "DEMO DT-103 — Evidence packet · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/resources",
+    "title": "Evidence, uncertainty and evaluation resources · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/resources/example-evidence-packet",
+    "title": "DEMO DT-103 — Evidence packet · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/resources/evidence-and-uncertainty",
+    "title": "Evidence and uncertainty · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/resources/pilot-protocol",
+    "title": "The proposed evaluation protocol · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/resources/research-notes",
+    "title": "Research notes and adjacent capabilities · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/integrations",
+    "title": "FUTURE INTEGRATION REQUIREMENTS · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/trust",
+    "title": "Data access and human review boundaries · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/company",
+    "title": "ABOUT THE WORKING CONCEPT · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/contact",
+    "title": "Start with the question. · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/waitlist",
+    "title": "Stay close to the evidence. · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/sign-in",
+    "title": "Workspace access — concept preview · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/access-help",
+    "title": "WORKSPACE ACCESS / HELP · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/legal/privacy",
+    "title": "DRAFT PRIVACY NOTICE / LOCAL PREVIEW · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/legal/terms",
+    "title": "DRAFT CONCEPT / DEMO TERMS · DefectTrail",
+    "unnamedButtons": 0
+  },
+  {
+    "missingAlt": 0,
+    "overflow": false,
+    "path": "/accessibility",
+    "title": "Accessibility and local preferences · DefectTrail",
+    "unnamedButtons": 0
+  }
+]

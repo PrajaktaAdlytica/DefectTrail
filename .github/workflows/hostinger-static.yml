@@ -1,0 +1,43 @@
+name: Build Hostinger static branch
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hostinger-static
+  cancel-in-progress: true
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - run: npm run test:unit
+      - run: npm run build
+      - run: npm run test:sites
+      - name: Publish compiled files to hostinger branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -f dist/client/index.html
+          test -f dist/client/.htaccess
+          publish_dir="$RUNNER_TEMP/defecttrail-hostinger"
+          git worktree add --detach "$publish_dir"
+          git -C "$publish_dir" switch --orphan hostinger
+          cp -a dist/client/. "$publish_dir/"
+          git -C "$publish_dir" config user.name 'github-actions[bot]'
+          git -C "$publish_dir" config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git -C "$publish_dir" add --all
+          git -C "$publish_dir" commit -m "Build static site from ${GITHUB_SHA}"
+          # This branch contains generated output only; source history stays on main.
+          git -C "$publish_dir" push origin HEAD:refs/heads/hostinger --force
