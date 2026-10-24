@@ -100,3 +100,8 @@ Upload the contents of `DefectTrail-Hostinger-Static.zip` into `public_html` usi
 - https://www.hostinger.com/support/1583214-how-to-add-a-website-in-hostinger/
 - https://docs.hostinger.com/websites/git
 - https://www.hostinger.com/support/1583302-how-to-deploy-a-git-repository-in-hostinger/
+
+
+## SVG brand kit
+
+`public/assets/brand/` contains twelve genuine vector SVGs: primary/ink/reverse symbols, primary/ink/reverse horizontal logos, primary/ink/reverse stacked logos, and light/dark/automatic favicons. Wordmarks are outlined Fraunces paths and require no external font. The site uses the primary/reverse SVG symbol; the browser uses `public/favicon.svg`. PNG favicon sizes 16/32/180/192/512 and a 16+32 ICO are regenerated with `node scripts/prepare-brand.mjs`. The film uses the matching SVG-derived WebP for canvas compatibility. Fraunces attribution/license is included.

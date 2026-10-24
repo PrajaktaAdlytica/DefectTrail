@@ -436,9 +436,6 @@ img {
 .brand-light {
   color: var(--paper);
 }
-.brand-light img {
-  filter: brightness(0) invert(1);
-}
 .desktop-nav {
   display: flex;
   gap: 25px;

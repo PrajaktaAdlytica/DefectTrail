@@ -24,7 +24,16 @@ export function Brand({ light = false, compact = false }) {
       aria-label="DefectTrail home"
       className={"brand " + (light ? "brand-light" : "")}
     >
-      <img src="/assets/brand-mark.webp" alt="" width="36" height="36" />
+      <img
+        src={
+          light
+            ? "/assets/brand/defecttrail-mark-reverse.svg"
+            : "/assets/brand/defecttrail-mark-primary.svg"
+        }
+        alt=""
+        width="36"
+        height="36"
+      />
       {!compact && <span>DefectTrail</span>}
     </Link>
   );

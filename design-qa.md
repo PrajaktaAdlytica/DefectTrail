@@ -180,3 +180,10 @@ Fresh audit of the local production preview at http://127.0.0.1:4590, after the 
 This passes QA as a local concept website and isolated synthetic demo. Forms and sign-in remain explicitly unconnected previews. No real browser/device matrix, throttled-network performance benchmark, external-link health audit, production integration, deployment or domain verification is implied. The Remotion Player's standard licensing information notice remains present; no license acknowledgement was fabricated.
 
 Final result: passed for local concept-preview scope.
+
+
+## SVG logo and favicon set — 24 October 2026
+
+Created twelve native vector SVG assets preserving the existing three-node evidence-trail symbol: primary/ink/reverse marks, horizontal and stacked outlined Fraunces logos, fixed light/dark favicons and an automatic light/dark favicon. Verified the SVG files contain paths/shapes and no embedded bitmap or font-dependent text. The symbol uses clean geometric vector shapes; the wordmark lettering is outlined. Added a 16/32px ICO and regenerated PNGs at 16/32/180/192/512px.
+
+The website uses the SVG symbol, and index.html/manifest reference the adaptive SVG favicon with PNG fallbacks. The intro retains a matching SVG-derived WebP for canvas rendering. Actual 1280px product-page browser inspection confirmed every brand image loaded and no document overflow. Brand sheet was rendered and visually inspected, including monochrome, reverse, stacked and small favicon examples. Production build and all ten existing tests passed.

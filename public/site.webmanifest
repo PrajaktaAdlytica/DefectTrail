@@ -1,11 +1,16 @@
 {
-  "name": "DefectTrail · Concept preview",
+  "name": "DefectTrail \u00b7 Concept preview",
   "short_name": "DefectTrail",
   "start_url": "/",
   "display": "browser",
   "background_color": "#f7f4ed",
   "theme_color": "#f7f4ed",
   "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
     {
       "src": "/favicon-192.png",
       "sizes": "192x192",
